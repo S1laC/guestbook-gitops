@@ -15,4 +15,4 @@ resources:
 images:
   - name: guestbook
     newName: ghcr.io/s1lac/guestbook-gitops
-    newTag: main-bbe3c45
+    newTag: main-91868c2
